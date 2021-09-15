@@ -1,2 +1,7 @@
-W3G文件
-可通過 Warcraft III Frozen Throne 運行
+扩展名 | 说明 
+:-:  | ---
+.w3m | 混乱之治（roc）地图
+.w3x | 冰封王座（tft）地图
+.w3n | 战役地图
+.w3g | 游戏录像
+
